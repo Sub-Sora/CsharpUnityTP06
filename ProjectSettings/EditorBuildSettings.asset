@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Main_Menu.unity
+    guid: 839084c126e0d3c459ca91a36f3f3c01
+  - enabled: 1
+    path: Assets/Scenes/Floppy_Bird.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: b4f6731a40f2d6c44827f3127b4b1838
   m_configObjects: {}
